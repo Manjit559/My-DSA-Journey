@@ -1,12 +1,17 @@
-# My-DSA-Journey
+# ​ My DSA Journey
 
-*Data structure:-
+A structured roadmap showcasing the data structures and algorithms I’ve practiced, with code, concepts, and visuals—perfect for learning and revisiting core logic fundamentals.
+
+
+
+*Data structure:
 1.Array & String
 2.Linkedlist
 3.Stack & Queue
 4.Trees,heap,graph
 
-* Algorithm:-
+
+* Algorithm:
 1.Sorting
 Bubble,selection,insertion,merge,quick
 2.Searching
