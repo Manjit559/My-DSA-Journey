@@ -4,14 +4,14 @@ A structured roadmap showcasing the data structures and algorithms I’ve practi
 
 
 
-*Data structure:
+  *Data structure:
 1.Array & String
 2.Linkedlist
 3.Stack & Queue
 4.Trees,heap,graph
 
 
-* Algorithm:
+  * Algorithm:
 1.Sorting
 Bubble,selection,insertion,merge,quick
 2.Searching
