@@ -1,7 +1,6 @@
-# ​ My DSA Journey
+# My DSA Journey
 
-A structured roadmap showcasing the data structures and algorithms I’ve practiced, with code, concepts, and visuals—perfect for learning and revisiting core logic fundamentals.
-
+A structured roadmap showcasing the Data Structures and Algorithms (DSA) I’ve practiced. This repo is my personal space to learn, code, and revisit core logic fundamentals.
 
 
 *Data structure:
@@ -9,7 +8,6 @@ A structured roadmap showcasing the data structures and algorithms I’ve practi
 2.Linkedlist
 3.Stack & Queue
 4.Trees,heap,graph
-
 
 
 
