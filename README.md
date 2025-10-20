@@ -5,7 +5,6 @@ A structured roadmap showcasing the Data Structures and Algorithms (DSA) I’ve 
 
 * Data structure:
 
-
 1.Array & String
 2.Linkedlist
 3.Stack & Queue
@@ -14,7 +13,6 @@ A structured roadmap showcasing the Data Structures and Algorithms (DSA) I’ve 
 
 
 * Algorithm:
-
 
 1.Sorting
 Bubble, selection, insertion, merge, quick
