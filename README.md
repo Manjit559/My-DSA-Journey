@@ -10,10 +10,8 @@ A structured roadmap showcasing the Data Structures and Algorithms (DSA) I’ve 
 3.Stack & Queue
 4.Trees, heap, graph 
 
-
 * Algorithm:
 
-  
 1.Sorting
 Bubble, selection, insertion, merge, quick
 2.Searching
